@@ -22,3 +22,7 @@ amount…) are correct.
 8. testng.xml - which testcase to execute
 10. log4j.xml - Details for Log4j
 11. pom.xml - Dependencies defination  
+
+# About Framework
+Created framework based on POM and data drivern. Provided facility to find the elements dynamically and create the xpath at runtime. Added utility to Generate nice result report.   
+  
